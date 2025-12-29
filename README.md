@@ -1,7 +1,7 @@
 
 # Getal Stelsel Omreken Applet
 
-Een applet waarmee je een decimaal getal om kan rekenen naar een instelbaar ander talstelsel (2 tot 9-tallig), en de anderekant op, van een instelbaar ander talstelsel naar een decimaal getal.
+Een applet waarmee je een decimaal getal om kan rekenen naar een instelbaar ander talstelsel (2 tot 9-tallig), en de andere kant op, van een instelbaar ander talstelsel naar een decimaal getal.
 
 Dit word uitgevoerd doormiddel van een simpel stappenplan.
 
